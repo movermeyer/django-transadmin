@@ -74,7 +74,7 @@ You can now view your website in French.
 
 #### Download
 
-Via pip ![latest version](https://pypip.in/v/django-transadmin/badge.png)
+Via pip ![latest version](https://img.shields.io/pypi/v/django-transadmin.svg)
 
 ```bash
 pip install django-transadmin
